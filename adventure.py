@@ -6,7 +6,6 @@ directions = {
     'north': (0, -1),
     'south': (0, 1),
 }
-
 position = (0, 0)
 
 while True:
